@@ -13,7 +13,7 @@ Este projeto teve como objetivo a criação de um banco de dados relacional comp
 📌 Criação do banco de dados com SQL (DDL e DML)
 📌 Consultas para extração de informações
 
-A proposta do trabalho era simular uma situação real, aplicando os conhecimentos teóricos em um sistema funcional e bem estruturado. O tema escolhido foi **\[tema do projeto, ex: sistema de biblioteca, controle de vendas, gestão de frota, etc.]**, e todo o desenvolvimento foi feito com foco na clareza, integridade e eficiência dos dados.
+A proposta do trabalho era simular uma situação real, aplicando os conhecimentos teóricos em um sistema funcional e bem estruturado. O tema escolhido foi **\[Bando de dados de um sistema para controle de finanças pessoal]**, e todo o desenvolvimento foi feito com foco na clareza, integridade e eficiência dos dados.
 
 ## Estrutura do Repositório
 
